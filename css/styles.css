@@ -1,0 +1,13 @@
+.job-title{
+  font-weight: bold;
+  background-color: skyblue; 
+}
+
+.loc{
+  font-style: oblique;
+}
+
+.important{
+  color: orange;
+  font-style: italic;
+}
