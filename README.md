@@ -27,5 +27,5 @@ LinkedIn: https://www.linkedin.com/in/christine-frank-b482005a
   * Bootstrap
 
 ### License
-Copyright (c) 2019 **Christine Frank**  
+Copyright (c) 2019 **Christine Frank, Anita Kemp**  
 This software is licensed under the MIT license.
